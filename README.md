@@ -33,9 +33,7 @@ The project synthesizes labeled datasets based on predefined physiological range
 - **Training Curves**: Shows loss and accuracy trends over epochs.
 
 ## Usage
-1. Run the script to generate synthetic physiological data.
-2. Train the neural network using the extracted features.
-3. Evaluate model performance using provided metrics and visualizations.
+Run the python file. It's as simple as that.
 
 ## Dependencies
 - Python
